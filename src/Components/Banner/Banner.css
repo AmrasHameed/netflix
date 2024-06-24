@@ -1,13 +1,11 @@
 .banner {
-    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8a6a68144592045.628efcd3e77b5.jpg');
     background-size: cover;
     height: 600px;
-    color: white;
-    
+    color: white;    
 }
 
 .content {
-    padding-top: 250px;
+    padding-top: 220px;
     height: 190px;
     padding-left: 15px;
 }
@@ -48,7 +46,7 @@ button:hover{
 }
 
 .fade {
-    margin-top: 42px;
+    margin-top: 72px;
     height: 7.4rem;
     background-image: linear-gradient(180deg, transparent,rgba(37,37,37,0.61),#000000);     
 }
